@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Raymond!
 
-<!--
-**sraylanka/sraylanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aerospace engineer currently pursuing my Master's degree in Aerospace Engineering, with a passion for software development, aviation, and solving problems.
 
-Here are some ideas to get you started:
+My interests are flight dynamics and controls, numerical simulation, open-source software, and building tools that make everyday tasks easier.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+- Aerospace engineer pursuing a Master's degree with a focus on flight dynamics and control systems
+- Private pilot and aviation enthusiast
+- Interested in open-source development and contributing to projects I use
+- Enjoy experimenting with Linux, Docker, and self-hosted applications
+- Always looking to learn new technologies and improve my programming skills
+
+### What I'm Working On
+
+- Exploring flight control algorithms and dynamic simulations
+- Contributing to open-source projects
+- Building useful software tools and personal projects
+- Experimenting with self-hosted services and automation
+
+### Technologies & Tools
+
+**Programming:** Python, MATLAB
+
+**Development:** Git, GitHub, VS Code
+
+**Systems:** Linux, Docker, Raspberry Pi
+
+**Engineering:** Numerical Methods, Control Systems, Simulation
